@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcusRei short for Marcus Reineck
 - 👀 I’m interested in programming, gaming, photography and 3D rendering.
-- 🌱 I’m currently learning Javascript but will soon move on to Typescript and then React!
+- 🌱 I’m currently learning Typescript and testing with jest but will soon move onto REACT!
 - 💞️ I’m not looking to collaborate on anything at the moment but I might be willing to change my mind
 - 📫 How to reach me? Right here is the best way!
 
