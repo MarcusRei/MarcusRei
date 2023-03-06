@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcusRei short for Marcus Reineck
+- 👋 Hi, I’m @MarcusRei but you can just call me Marcus!
 - 👀 I’m interested in programming, gaming, photography and 3D rendering.
 - 🌱 I’m currently learning Backend programming and basic API work but will soon move onto REACT and Vue!
 - 💞️ I’m not looking to collaborate on anything at the moment but that might change in the future.
