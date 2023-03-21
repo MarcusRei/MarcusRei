@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, gaming, photography and 3D rendering.
 - 🌱 I’m currently learning Backend programming and basic API work but will soon move onto REACT and Vue!
 - 📫 How to reach me? Right here is the best way!
-
+<!---
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -24,6 +24,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![]()
 ![]()
+--->
 
 <!---
 MarcusRei/MarcusRei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
