@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MarcusRei but you can just call me Marcus!
-- 👀 I’m a junior frontend developer from Stockholm, Sweden who likes photography, videogames and 3D art.
+- 👋 Hi, I’m Marcus but you can call me Macke or Mackan!
+- 👀 I’m an up and coming frontend developer in Stockholm, Sweden who likes photography, videogames and 3D art.
 - 💪 I know a bit of everyting from HTML, CSS/SCSS, GraphQL, REST API, Jest, Cypress and more.
-- 🌱 I’m currently learning React and Vue!
+- 🌱 I’m studying at medieinstitutet and right now I´m learning React and Vue!
 - 📫 You want to know more about me or generally get in touch? Write to me here or go to my [website](https://marcusreineck.se/) and send me a message!
 <!---
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
