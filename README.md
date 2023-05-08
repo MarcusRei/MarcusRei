@@ -2,7 +2,7 @@
 - 👀 I’m a junior frontend developer from Stockholm, Sweden who likes photography, videogames and 3D art.
 - 💪 I know a bit of everyting from HTML, CSS/SCSS, GraphQL, REST API, Jest, Cypress and more.
 - 🌱 I’m currently learning React and Vue!
-- 📫 You want to know more about me or generally get in touch? Write to me here or go to my website marcusreineck.se and send me a message!
+- 📫 You want to know more about me or generally get in touch? Write to me here or go to my [website](marcusreineck.se) and send me a message!
 <!---
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
