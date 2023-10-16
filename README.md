@@ -7,7 +7,7 @@
 - 🛠️ HTML, CSS/SCSS, GraphQL, REST API, Jest, Cypress
 
 ## Want to get in touch?
-- 🌐 [My Website](https://marcusreineck.se/) | 📫 Send me a message here on github!
+- 🌐 [My Website](https://marcusreineck.se/)
 
 <!---
 MarcusRei/MarcusRei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
