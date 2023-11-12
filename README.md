@@ -1,10 +1,9 @@
-
-
-- 👋 Hi, I'm Marcus, but you can call me Macke or Mackan!
-- 💻 Frontend developer in Stockholm
-- 📷 Photography enthusiast | Videogame connoisseur
-- 💼 Student at Medieinstitutet | Intern at Developed by Me
-- 🛠️ HTML, CSS/SCSS, GraphQL, REST API, Jest, Cypress
+# Who am I?
+👋 Hi, I'm Marcus, but you can call me Macke or Mackan!
+💻 Frontend developer in Stockholm
+📷 Photography enthusiast | Videogame connoisseur
+💼 Student at Medieinstitutet | Intern at Developed by Me
+🛠️ HTML, CSS/SCSS, GraphQL, REST API, Jest, Cypress
 
 ## Want to get in touch?
 - 🌐 [My Website](https://marcusreineck.se/)
