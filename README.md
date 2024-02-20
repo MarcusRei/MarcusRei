@@ -6,7 +6,7 @@ I´m a student at Medieinstitutet and right now I´m an intern at Developed by M
 
 If you want to reach me the easiest way is on linkedIn or my website
 - 🌐 [My Website](https://marcusreineck.se/)
-
+- 🌐 [My LinkedIn](www.linkedin.com/in/marcus-reineck)
 <!---
 MarcusRei/MarcusRei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
