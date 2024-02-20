@@ -1,13 +1,10 @@
-# Halloj!
-- 👋 My name is Marcus and I´m a frontend developer from Stockholm. You can call me Macke or Mackan if you like!
+# Halloj! 👋
+My name is Marcus and I´m a frontend developer from Stockholm. You can call me Macke or Mackan if you like!
+Some of the techniques I use are React, Vue, SCSS, PHP, GraphQL, Jest and Cypress.
 
-- I am an absolute nerd in everything related to photography, 3D & videogames.
+I´m a student at Medieinstitutet and right now I´m an intern at Developed by Me.
 
-- I am a student at Medieinstitutet and right now I´m an Intern at Developed by Me
-
-- Some of the techniques I´ve used are React, Vue, SCSS, GraphQL, Jest and Cypress.
-
-## Want to get in touch?
+If you want to reach me the easiest way is on linkedIn or my website
 - 🌐 [My Website](https://marcusreineck.se/)
 
 <!---
