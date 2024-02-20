@@ -1,7 +1,7 @@
 # Halloj!
 - 👋 My name is Marcus and I´m a frontend developer from Stockholm. You can call me Macke or Mackan if you like!
 
-- I am an absolute nerd in everything related to photography and videogames.
+- I am an absolute nerd in everything related to photography, 3D & videogames.
 
 - I am a student at Medieinstitutet and right now I´m an Intern at Developed by Me
 
