@@ -3,7 +3,7 @@ My name is Marcus and I´m a frontend developer from Stockholm. You can call me 
 
 Some of the techniques I use are React, Vue, SCSS, PHP, GraphQL, Jest and Cypress.
 
-
+<!--
 My techstack
 ![HTML]((https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white))  
 
@@ -16,6 +16,7 @@ https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoCol
 https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white
 https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white
 https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white
+--->
 
 
 I´m a student at Medieinstitutet and right now I´m an intern at Developed by Me.
