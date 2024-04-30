@@ -1,3 +1,5 @@
+![logo](https://i.ibb.co/F5JqXQX/logo-readme.jpg)
+
 # Halloj! 👋
 My name is Marcus and I´m a frontend developer from Stockholm. You can call me Macke or Mackan if you like!
 
