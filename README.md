@@ -1,7 +1,7 @@
 ![logo](https://i.ibb.co/ypKmv7B/logo-readme.jpg)
 
 # Halloj! 👋
-My name is Marcus and I´m a frontend developer from Stockholm. You can call me Macke or Mackan if you like!
+My name is Marcus and I´m a code enthusiast from Stockholm with my roots in web design and more specifically Frontend development.
 
 Some of the techniques I use are React, Vue, SCSS, PHP, GraphQL, Jest and Cypress.
 
@@ -21,7 +21,8 @@ https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB
 --->
 
 
-I´m a student at Medieinstitutet and right now I´m an intern at Developed by Me.
+I graduated from Medieinstitutet with a degree in Frontend development and was an intern at Developed by Me during 2023-2024.
+After that I changed careers and now I mostly keep up with development as a hobby. 
 
 If you want to reach me the easiest way is on linkedIn or my website
 - 🌐 [My Website](https://marcusreineck.se/)
